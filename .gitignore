@@ -1,0 +1,5 @@
+# Ignore Obsidian cache files
+.obsidian/
+
+# Ignore any backup files created by Obsidian
+*.md.bak
