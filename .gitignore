@@ -1,5 +1,9 @@
 # Ignore Obsidian cache files
 .obsidian/
 
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
 # Ignore any backup files created by Obsidian
 *.md.bak
