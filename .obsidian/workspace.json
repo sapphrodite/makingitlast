@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00f31f91d5fc7636",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2cdb66e31225487",
+  "active": "00f31f91d5fc7636",
   "lastOpenFiles": [
     "2023-08-05.md",
     "README.md",
