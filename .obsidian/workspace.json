@@ -48,9 +48,19 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "639a1a92f6236eb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ecd401ecc925efb",
+  "active": "639a1a92f6236eb0",
   "lastOpenFiles": [
     "2023-08-05.md",
     "README.md",
