@@ -28,9 +28,19 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "f564d184dea4e3ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -167,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "639a1a92f6236eb0",
+  "active": "f564d184dea4e3ff",
   "lastOpenFiles": [
     "2023-08-05.md",
     "README.md",
